@@ -5,7 +5,7 @@ from lxml import etree
 name = input("Enter the name attribute in the SimpleData tag to remove: ")
 
 # Set the path of the input KML file
-kml_file = r"C:\Users\sunil\Desktop\Electhon-2023\Maps\RR_MAL_AYA_BSouth_Final_modified.kml"
+kml_file = r"C:\Users\sunil\Desktop\Electhon-2023\Maps\RR_MAL_AYA_BSouth_Map.kml"
 
 # Set the path of the output modified KML file
 output_file = os.path.splitext(kml_file)[0] + "_modified.kml"
