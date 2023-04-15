@@ -2,10 +2,10 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_excel(r"C:\Users\sunil\Desktop\Electhon-2023\Maps\Datasets\tweets_data.xlsx")
-df_new = df.groupby(['username']).mean().reset_index().drop(['id', 'user_id', 'retweet', 'video'], axis=1)
-print(df_new.columns)
-values = df_new.loc[df_new.username == 'ceo_karnataka'].values
+df = pd.read_excel(r"/Users/onepiece/Documents/Projects/Electhon-2023/Maps/Datasets/tweets_data.xlsx")
+df = df[['username', 'replies_count', 'retweets_count', 'likes_count']]
+print(df.columns)
+values = df.loc[df.username == 'ceo_karnataka'].values
 
 fig = go.Figure(go.Bar(
     x=[values[0][1], values[0][2], values[0][3]],
