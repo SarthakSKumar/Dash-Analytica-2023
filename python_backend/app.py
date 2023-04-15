@@ -1,14 +1,24 @@
-import pandas as pd
+from flask_cors import CORS
 from flask import Flask, jsonify
+import pandas as pd
+import requests
+
+df = pd.read_excel(r"C:\Users\sunil\Desktop\Electhon-2023\Maps\Datasets\tweets_data.xlsx")
+
+app = Flask(__name__)
+CORS(app)
+
 
 app = Flask(__name__)
 
-# create a sample dataframe
-df = pd.read_excel("/Users/onepiece/Documents/Projects/Electhon-2023/Maps/Datasets/tweets_data.xlsx")
+# Route that returns a JSON response
+
 
 @app.route('/graphs', methods=['GET'])
 def get_data():
-    return jsonify(df.to_dict())
+    data = df.to_dict(orient='records')
+    return jsonify(data)
+
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', port=5000, debug=True)

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Ashok Kumar",
+    "officerId": 3576287,
+    "hash": "$2a$10$t58fWgtoVi/zyDPjDkwNLOq3zNZSTZgQubkxN.ZUPsFWhEWWGVh0m"
+  },
+  {
+    "Name": "Jane Doe",
+    "officerId": 1234567,
+    "hash": "$2a$10$mrGH6O5oh6zvOFfnjLvtleFF5x5D9a2Y3oicgOGV2S.vw.cD0MBqa"
+  },
+  {
+    "Name": "John Smith",
+    "officerId": 9876543,
+    "hash": "$2a$10$OT.jFCmzLxWeI5Q5X9/3YufQbW/BBotS1V7PSbsjLpFV7iGP4xRSu"
+  }
+]

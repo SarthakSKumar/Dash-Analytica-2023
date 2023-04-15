@@ -1,36 +1,71 @@
 import React, { useState } from "react";
+import authorizedUsers from "../assets/authorizedUsers.json";
+import { useNavigate } from "react-router-dom";
+import bcrypt from "bcryptjs";
+import { setCookie } from "../utils/cookies";
 
-function Dashboard() {
+function Login() {
+  const [officerID, setOfficerID] = useState("");
+  const [password, setPassword] = useState("");
+  const [error, setError] = useState("");
+  const navigate = useNavigate();
+
+  const handleLogin = (event) => {
+    event.preventDefault();
+
+    const user = authorizedUsers.find(
+      (user) => user.officerId === parseInt(officerID)
+    );
+
+    if (!user) {
+      setError("Invalid officer ID or password.");
+      return;
+    }
+
+    bcrypt.compare(password, user.hash, (err, result) => {
+      if (err) {
+        setError("An error occurred while verifying your password.");
+        return;
+      }
+
+      if (!result) {
+        setError("Invalid officer ID or password.");
+        return;
+      }
+
+      setCookie("username", user.Name, 1);
+      navigate("/dashboard"); // Navigate to the dashboard route
+    });
+  };
+
   return (
-    <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
+    <div
+      className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px
+    8"
+    >
       <div className="mx-auto max-w-lg">
         <h1 className="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">
-          Get started today
+          Log in to your account
         </h1>
 
-        <p className="mx-auto mt-4 max-w-md text-center text-gray-500">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati
-          sunt dolores deleniti inventore quaerat mollitia?
-        </p>
-
         <form
-          action=""
+          onSubmit={handleLogin}
           className="mb-0 mt-6 space-y-4 rounded-lg p-4 shadow-lg sm:p-6 lg:p-8"
         >
-          <p className="text-center text-lg font-medium">
-            Sign in to your account
-          </p>
-
           <div>
-            <label for="email" className="sr-only">
-              Email
+            <label htmlFor="officerID" className="sr-only">
+              Officer ID
             </label>
 
             <div className="relative">
               <input
-                type="email"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
-                placeholder="Enter email"
+                type="text"
+                className={`w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm ${
+                  error ? "border-red-500" : ""
+                }`}
+                placeholder="Enter your officer ID"
+                value={officerID}
+                onChange={(event) => setOfficerID(event.target.value)}
               />
 
               <span className="absolute inset-y-0 end-0 grid place-content-center px-4">
@@ -53,15 +88,18 @@ function Dashboard() {
           </div>
 
           <div>
-            <label for="password" className="sr-only">
+            <label htmlFor="password" className="sr-only">
               Password
             </label>
 
             <div className="relative">
               <input
                 type="password"
-                className="w-full rounded-lg border-gray-200 p-4 pe-12 text-sm shadow-sm"
-                placeholder="Enter password"
+                className={`w-full rounded-lg
+ border-gray-200 p-4 pe-12 text-sm shadow-sm ${error ? "border-red-500" : ""}`}
+                placeholder="Enter your password"
+                value={password}
+                onChange={(event) => setPassword(event.target.value)}
               />
 
               <span className="absolute inset-y-0 end-0 grid place-content-center px-4">
@@ -89,15 +127,17 @@ function Dashboard() {
             </div>
           </div>
 
+          {error && <p className="text-red-500 text-sm">{error}</p>}
+
           <button
             type="submit"
             className="block w-full rounded-lg bg-indigo-600 px-5 py-3 text-sm font-medium text-white"
           >
-            Sign in
+            Log in
           </button>
 
           <p className="text-center text-sm text-gray-500">
-            No account?
+            Don't have an account?
             <a className="underline" href="">
               Sign up
             </a>
@@ -108,4 +148,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default Login;
