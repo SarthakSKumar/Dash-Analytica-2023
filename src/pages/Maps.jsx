@@ -1,7 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
+
 function Dashboard() {
+  const [geojsonData, setGeojsonData] = useState(null);
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [subDomain, setSubDomain] = useState("");
   const [state, setState] = useState("");
@@ -10,6 +12,14 @@ function Dashboard() {
   const [iframeUrl, setIframeUrl] = useState("");
 
   useEffect(() => {
+    fetch("/assets/precise.geojson")
+      .then((response) => response.json())
+      .then((data) => {
+        setGeojsonData({
+          data: data,
+          bounds: new L.GeoJSON(data).getBounds(),
+        });
+      });
     if (constituency) {
       switch (constituency) {
         case "Malleswaram":
@@ -171,7 +181,11 @@ function Dashboard() {
                     ))}
                   </select>
                 </div>
-                <div className="border-2 w-full"></div>
+                <div className="border-2 w-full">
+                  <div style={{ height: "100vh", width: "100vw" }}>
+                    {geojsonData && <MyMap geojson={geojsonData} />}
+                  </div>
+                </div>
               </div>
             </div>
           </div>

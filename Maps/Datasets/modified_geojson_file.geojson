@@ -286,6 +286,43 @@
         "type": "Polygon",
         "coordinates": [
           [
+            [null, null],
+            [12.912443, null, null],
+            [12.912448, null, null],
+            [12.912453, null, null],
+            [12.912325, null, null],
+            [12.911663, null, null],
+            [12.911341, null, null],
+            [12.911055, null, null],
+            [12.911041, null, null],
+            [12.911014, null, null],
+            [12.911005, null, null],
+            [12.911003, null, null],
+            [12.912413, null, null],
+            [12.912412, null, null],
+            [12.912443]
+          ]
+        ]
+      },
+      "properties": {
+        "PSCode": "\r\n       173151\r\n      ",
+        "AC_CODE": "\r\n       173\r\n      ",
+        "AC_Name": "\r\n       Jayanagar\r\n      ",
+        "PS_Name": "\r\n       Bangalore Jalamandali, Shimsha Bhavana\r\n      ",
+        "registered_voters": "\r\n       1290\r\n      ",
+        "ward_id": "\r\n       179\r\n      ",
+        "ward_name": "\r\n       Shakambari Nagar\r\n      ",
+        "locality": "\r\n       Jp Nagar I Phase\r\n      ",
+        "voter_turnout": "\r\n      \r\n      33.8%\r\n%\r\n"
+      },
+      "style": { "fill": "#FF3131", "stroke-width": "2", "fill-opacity": 0.6 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [77.575437, 12.913324],
             [77.574884, 12.913521],
             [77.574573, 12.913191],
@@ -28798,6 +28835,47 @@
         "type": "Polygon",
         "coordinates": [
           [
+            [null, null],
+            [12.995969, null, null],
+            [12.995999, null, null],
+            [12.996425, null, null],
+            [12.996315, null, null],
+            [12.99623, null, null],
+            [12.996119, null, null],
+            [12.995951, null, null],
+            [12.99582, null, null],
+            [12.995805, null, null],
+            [12.995623, null, null],
+            [12.995494, null, null],
+            [12.995401, null, null],
+            [12.995365, null, null],
+            [12.995319, null, null],
+            [12.995192, null, null],
+            [12.995189, null, null],
+            [12.995146, null, null],
+            [12.995969]
+          ]
+        ]
+      },
+      "properties": {
+        "PSCode": "\r\n       157192\r\n      ",
+        "AC_CODE": "\r\n       157\r\n      ",
+        "AC_Name": "\r\n       Malleshwaram\r\n      ",
+        "PS_Name": "\r\n       Light Of Asia Kannada Higher Primary School, Room No.01\r\n      ",
+        "registered_voters": "\r\n       1260\r\n      ",
+        "ward_id": "\r\n       76\r\n      ",
+        "ward_name": "\r\n       Gayithri Nagar\r\n      ",
+        "locality": "\r\n       Nagappa BlockSri Rampura\r\n      ",
+        "voter_turnout": "\r\n      \r\n      38.57%\r\n%\r\n"
+      },
+      "style": { "fill": "#FF3131", "stroke-width": "2", "fill-opacity": 0.6 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
             [77.563216, 12.99658],
             [77.563039, 12.996606],
             [77.562883, 12.996628],
@@ -28839,6 +28917,68 @@
         "voter_turnout": "\r\n      \r\n      40.53%\r\n%\r\n"
       },
       "style": { "fill": "#FF5757", "stroke-width": "2", "fill-opacity": 0.6 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [null, null],
+            [12.994657, null, null],
+            [12.994671, null, null],
+            [12.994771, null, null],
+            [12.994579, null, null],
+            [12.994456, null, null],
+            [12.994291, null, null],
+            [12.994238, null, null],
+            [12.994171, null, null],
+            [12.994657]
+          ]
+        ]
+      },
+      "properties": {
+        "PSCode": "\r\n       157195\r\n      ",
+        "AC_CODE": "\r\n       157\r\n      ",
+        "AC_Name": "\r\n       Malleshwaram\r\n      ",
+        "PS_Name": "\r\n       Lakshmi Jayam English School South Wing, Room No. 03\r\n      ",
+        "registered_voters": "\r\n       1290\r\n      ",
+        "ward_id": "\r\n       76\r\n      ",
+        "ward_name": "\r\n       Gayithri Nagar\r\n      ",
+        "locality": "\r\n       Nagappa BlockSri Rampura\r\n      ",
+        "voter_turnout": "\r\n      \r\n      57.29%\r\n%\r\n"
+      },
+      "style": { "fill": "#FF914D", "stroke-width": "2", "fill-opacity": 0.6 }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [null, null],
+            [12.994565, null, null],
+            [12.994597, null, null],
+            [12.994657, null, null],
+            [12.994171, null, null],
+            [12.994154, null, null],
+            [12.994076, null, null],
+            [12.994565]
+          ]
+        ]
+      },
+      "properties": {
+        "PSCode": "\r\n       157197\r\n      ",
+        "AC_CODE": "\r\n       157\r\n      ",
+        "AC_Name": "\r\n       Malleshwaram\r\n      ",
+        "PS_Name": "\r\n       Sarvodaya High School Southside,  Room No. 02\r\n      ",
+        "registered_voters": "\r\n       1260\r\n      ",
+        "ward_id": "\r\n       76\r\n      ",
+        "ward_name": "\r\n       Gayithri Nagar\r\n      ",
+        "locality": "\r\n       Lakshmi Narayan Pura\r\n      ",
+        "voter_turnout": "\r\n      \r\n      59.37%\r\n%\r\n"
+      },
+      "style": { "fill": "#FF914D", "stroke-width": "2", "fill-opacity": 0.6 }
     },
     {
       "type": "Feature",

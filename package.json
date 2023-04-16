@@ -15,6 +15,7 @@
     "js-cookie": "^3.0.1",
     "jsonwebtoken": "^9.0.0",
     "leaflet": "^1.9.3",
+    "leaflet-omnivore": "^0.3.4",
     "moment": "^2.29.4",
     "papaparse": "^5.4.1",
     "plotly.js": "^2.20.0",
@@ -23,6 +24,7 @@
     "react-dom": "^18.2.0",
     "react-flatpickr": "^3.10.13",
     "react-leaflet": "^4.2.1",
+    "react-leaflet-kml": "^2.1.1",
     "react-router-dom": "^6.10.0",
     "react-transition-group": "^4.4.5",
     "xlsx": "^0.17.0"
