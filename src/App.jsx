@@ -1,6 +1,12 @@
 import React, { useEffect } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import Login from "./pages/Login.jsx";
+import { getCookie } from "./utils/cookies.js";
+import General from "./pages/General.jsx";
+import Campaign from "./pages/Campaign.jsx";
+import Maps from "./pages/Maps.jsx";
+import Social from "./pages/Social.jsx";
+
 import "./css/style.css";
 
 function App() {
@@ -15,7 +21,16 @@ function App() {
   return (
     <>
       <Routes>
-        <Route exact path="/" element={<Login />} />
+        <Route
+          exact
+          path="/"
+          element={getCookie("username") ? <General /> : <Login />}
+        />
+        <Route exact path="/login" element={<Login />} />
+        <Route exact path="/general" element={<General />} />
+        <Route exact path="/campaign" element={<Campaign />} />
+        <Route exact path="/maps" element={<Maps />} />
+        <Route exact path="/social" element={<Social />} />
       </Routes>
     </>
   );

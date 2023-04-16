@@ -34,15 +34,13 @@ function Login() {
       }
 
       setCookie("username", user.Name, 1);
+      setCookie("role", user.role, 1);
       navigate("/dashboard"); // Navigate to the dashboard route
     });
   };
 
   return (
-    <div
-      className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px
-    8"
-    >
+    <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
       <div className="mx-auto max-w-lg">
         <h1 className="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">
           Log in to your account
@@ -135,13 +133,6 @@ function Login() {
           >
             Log in
           </button>
-
-          <p className="text-center text-sm text-gray-500">
-            Don't have an account?
-            <a className="underline" href="">
-              Sign up
-            </a>
-          </p>
         </form>
       </div>
     </div>

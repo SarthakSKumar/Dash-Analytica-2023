@@ -11,6 +11,7 @@
     "bcryptjs": "^2.4.3",
     "chart.js": "^4.2.1",
     "chartjs-adapter-moment": "^1.0.1",
+    "google-translate-api": "^2.3.0",
     "js-cookie": "^3.0.1",
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.4",

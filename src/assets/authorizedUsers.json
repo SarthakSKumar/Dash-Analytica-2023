@@ -2,16 +2,19 @@
   {
     "Name": "Ashok Kumar",
     "officerId": 3576287,
-    "hash": "$2a$10$t58fWgtoVi/zyDPjDkwNLOq3zNZSTZgQubkxN.ZUPsFWhEWWGVh0m"
+    "hash": "$2a$10$1zq.gwYb8mzhwoFL1zLTteWhvXPAwe5mNeXrgxkW4KEysm44Y3WM.",
+    "role": "Ward Officer"
   },
   {
     "Name": "Jane Doe",
     "officerId": 1234567,
-    "hash": "$2a$10$mrGH6O5oh6zvOFfnjLvtleFF5x5D9a2Y3oicgOGV2S.vw.cD0MBqa"
+    "hash": "$2a$10$Ngvr1TyknQjrezYnKQYbZ.A3XaZMA58xUqndkNd01WOdJpjbMsk/K",
+    "role": "Commissioner"
   },
   {
     "Name": "John Smith",
     "officerId": 9876543,
-    "hash": "$2a$10$OT.jFCmzLxWeI5Q5X9/3YufQbW/BBotS1V7PSbsjLpFV7iGP4xRSu"
+    "hash": "$2a$10$x4hGIBw9v3pt2Ci5vrvVVemWDJMe0bRjVAZAro3rngXeOfT8.N39.",
+    "role": "Booth Officer"
   }
 ]
