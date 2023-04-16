@@ -35,7 +35,7 @@ function Header({ sidebarOpen, setSidebarOpen }) {
                 <rect x="4" y="17" width="16" height="2" />
               </svg>
             </button>
-
+            
             {/* Language selection dropdown */}
             <div className="relative inline-block">
               <select
@@ -92,7 +92,6 @@ function Header({ sidebarOpen, setSidebarOpen }) {
             <UserMenu />
 
             {/* Icons */}
-            
           </div>
         </div>
       </div>

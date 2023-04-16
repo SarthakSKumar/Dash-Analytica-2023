@@ -44,8 +44,8 @@ function Login() {
     <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
       <div className="mx-auto max-w-lg flex flex-wrap justify-center">
         <img
-          src="/assets/image/hackLogo.png"
-          className="h-32 rounded-full my-16"
+          src="/assets/image/logoFile.png"
+          className="h-32 rounded-md my-16"
         />
         <h1 className="text-center text-2xl w-full font-bold  text-indigo-600 sm:text-3xl">
           Log in to your account

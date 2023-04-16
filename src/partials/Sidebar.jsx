@@ -765,6 +765,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
             </svg>
           </button>
         </div>
+        <span className="text-gray-400 text-sm my-6">
+          <strong>Team Psephologists</strong>
+          <br />
+          Prototype
+        </span>
       </div>
     </div>
   );
