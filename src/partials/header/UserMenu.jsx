@@ -1,14 +1,15 @@
 import React, { useState, useRef, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Transition from "../../utils/Transition";
-import { getCookie } from "../../utils/cookies";
+import { getCookie, setCookie } from "../../utils/cookies";
+import { useNavigate } from "react-router-dom";
 
 function UserMenu() {
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
   const trigger = useRef(null);
   const dropdown = useRef(null);
-
+  const navigate = useNavigate();
   // close on click outside
   useEffect(() => {
     const clickHandler = ({ target }) => {
@@ -102,7 +103,14 @@ function UserMenu() {
                 to="/"
                 onClick={() => setDropdownOpen(!dropdownOpen)}
               >
-                Sign Out
+                <button
+                  onClick={() => {
+                    setCookie("username", "", -1);
+                    navigate("/login");
+                  }}
+                >
+                  Sign Out
+                </button>
               </Link>
             </li>
           </ul>
