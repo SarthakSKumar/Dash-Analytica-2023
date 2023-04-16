@@ -20,7 +20,7 @@ function DashboardCard06() {
           tailwindConfig().theme.colors.indigo[600],
           tailwindConfig().theme.colors.blue[500],
           tailwindConfig().theme.colors.indigo[900],
-        ],  
+        ],
         hoverBorderColor: tailwindConfig().theme.colors.white,
       },
     ],

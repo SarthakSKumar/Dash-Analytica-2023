@@ -40,13 +40,13 @@ function Login() {
   };
 
   return (
-    <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
-      <img
-        src="../src/campaign/hackLogo.png"
-        className="h-32 w-fit text-center"
-      />
-      <div className="mx-auto max-w-lg">
-        <h1 className="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">
+    <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
+      <div className="mx-auto max-w-lg flex flex-wrap justify-center">
+        <img
+          src="../src/campaign/hackLogo.png"
+          className="h-32 rounded-full my-16"
+        />
+        <h1 className="text-center text-2xl w-full font-bold  text-indigo-600 sm:text-3xl">
           Log in to your account
         </h1>
 
@@ -139,6 +139,7 @@ function Login() {
           </button>
         </form>
       </div>
+      <p className="text-sm text-gray-500 my-10">Team Psephologists</p>
     </div>
   );
 }
