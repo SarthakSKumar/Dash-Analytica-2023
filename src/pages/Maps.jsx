@@ -9,53 +9,28 @@ function Dashboard() {
   const [state, setState] = useState("");
   const [district, setDistrict] = useState("");
   const [constituency, setConstituency] = useState("");
-  const [iframeUrl, setIframeUrl] = useState("");
+  const [iframeUrl, setIframeUrl] = useState("./assets/image/karnataka.png");
 
   useEffect(() => {
-    fetch("/assets/precise.geojson")
-      .then((response) => response.json())
-      .then((data) => {
-        setGeojsonData({
-          data: data,
-          bounds: new L.GeoJSON(data).getBounds(),
-        });
-      });
     if (constituency) {
       switch (constituency) {
         case "Malleswaram":
-          setIframeUrl("url6");
+          setIframeUrl("./assets/image/malleshwaram.png");
           break;
         case "Jayanagar":
-          setIframeUrl("url7");
+          setIframeUrl("./assets/image/jayanagar.png");
           break;
         case "RR Nagar":
-          setIframeUrl("url8");
+          setIframeUrl("./assets/image/rrNagar.png");
           break;
         case "Bengaluru South":
-          setIframeUrl("url9");
-          break;
-        default:
-          break;
-      }
-    } else if (district) {
-      switch (district) {
-        case "Bengaluru North":
-          setIframeUrl("url2");
-          break;
-        case "Bengaluru South":
-          setIframeUrl("url3");
-          break;
-        case "Bengaluru Central":
-          setIframeUrl("url4");
-          break;
-        case "Bengaluru Urban":
-          setIframeUrl("url5");
+          setIframeUrl("./assets/image/bangaloreSouth.png");
           break;
         default:
           break;
       }
     } else if (state) {
-      setIframeUrl("url1");
+      setIframeUrl("./assets/image/karnataka.png");
     } else {
       setIframeUrl("");
     }
@@ -181,10 +156,10 @@ function Dashboard() {
                     ))}
                   </select>
                 </div>
-                <div className="border-2 w-full">
-                  <div style={{ height: "100vh", width: "100vw" }}>
-                    {geojsonData && <MyMap geojson={geojsonData} />}
-                  </div>
+                <div className="border-2 w-full my-4">
+                  {iframeUrl && (
+                    <img src={iframeUrl} className="w-full h-fit" />
+                  )}
                 </div>
               </div>
             </div>

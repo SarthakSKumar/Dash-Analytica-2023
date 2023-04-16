@@ -89,7 +89,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
           </button>
           {/* Logo */}
           <NavLink end to="/general" className="block w-full text-center">
-            <img src="/assets/image/icon.svg" className="border-10" />
+            <img src="/assets/image/logoFile.png" className="border-10" />
           </NavLink>
         </div>
 
@@ -104,7 +104,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               >
                 •••
               </span>
-              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-">
+              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-gray-400">
                 General
               </span>
             </h3>
@@ -249,7 +249,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               >
                 •••
               </span>
-              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-">
+              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-gray-400">
                 Maps and Visualisation
               </span>
             </h3>
@@ -389,7 +389,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               >
                 •••
               </span>
-              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-">
+              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-gray-400">
                 Social Media and Platform
               </span>
             </h3>
@@ -534,7 +534,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               >
                 ••
               </span>
-              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-">
+              <span className="lg:hidden lg:sidebar-expanded:block 2xl:block text-gray-400">
                 Campaigning and Reach
               </span>
             </h3>
@@ -722,6 +722,48 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               </svg>
             </button>
           </div>
+        </div>
+        <div className="flex items-center w-full justify-around mt-14">
+          {/* Narrator icon */}
+          <button
+            className="w-8 h-8 flex items-center justify-center bg-slate-100 hover:bg-slate-200 transition duration-150 rounded-full"
+            aria-label="Narrator"
+          >
+            <svg
+              className="w-4 h-4 fill-current text-slate-500"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M10.75 2.124A1 1 0 0112 2v20a1 1 0 01-1.625.781l-6-5A1 1 0 014 16V8a1 1 0 011.375-.937l6-2.939zM5.447 15L11 18.618V5.382L5.447 9.001v5zm13.107-5.981l-2.792-2.792a1 1 0 00-1.414 0L14 9.586l-1.448-1.448a1 1 0 00-1.414 0l-2.792 2.792a1 1 0 000 1.414L10 12.414l-1.448 1.448a1 1 0 000 1.414"></path>
+            </svg>
+          </button>
+          {/* On-screen keyboard icon */}
+          <button
+            className="w-8 h-8 flex items-center justify-c  enter bg-slate-100 hover:bg-slate-200 transition duration-150 rounded-full ml-3"
+            aria-label="On-screen keyboard"
+          >
+            <svg
+              className="w-4 h-4 fill-current text-slate-500"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M8 3a1 1 0 00-1 1v4H4a1 1 0 100 2h3v4a1 1 0 102 0V10h3a1 1 0 100-2H10V4a1 1 0 00-1-1zM16.707 7.707l-1.414-1.414L19.586 2H14a1 1 0 00-1 1v3.586l3.121-3.122 1.414 1.414L14.707 8l2.707-2.293z" />
+              <path d="M16.707 18.293l-1.414 1.414L14.707 16l-2.707 2.293 1.414 1.414L14 18.414V22a1 1 0 001 1h5.586l-3.121-3.122z" />
+            </svg>
+          </button>
+          {/* Font size increase icon */}
+          <button
+            className="w-8 h-8 flex items-center justify-center bg-slate-100 hover:bg-slate-200 transition duration-150 rounded-full ml-3"
+            aria-label="Increase font size"
+          >
+            <svg
+              className="w-4 h-4 fill-current text-slate-500"
+              viewBox="0 0 24 24"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path d="M17.293 6.293a1 1 0 00-1.414 0L12 10.586 7.121 5.707a1 1 0 00-1.414 1.414L10.586 12l-5.879 4.879a1 1 0 000 1.414 1 1 0 001.414 0L12 13.414l4.879 4.879a1 1 0 001.414 0 1 1 0 000-1.414L13.414 12l4.879-4.879a1 1 0 000-1.414z" />
+            </svg>
+          </button>
         </div>
       </div>
     </div>
