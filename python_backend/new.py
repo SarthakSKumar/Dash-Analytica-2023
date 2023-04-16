@@ -2,7 +2,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 
-df = pd.read_excel(r"/Users/onepiece/Documents/Projects/Electhon-2023/Maps/Datasets/tweets_data.xlsx")
+df = pd.read_excel(r"C:\Users\sunil\Desktop\Electhon-2023\Maps\Datasets\tweets_data.xlsx")
 df = df[['username', 'replies_count', 'retweets_count', 'likes_count']]
 print(df.columns)
 values = df.loc[df.username == 'ceo_karnataka'].values
