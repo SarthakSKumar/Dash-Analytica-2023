@@ -37,8 +37,12 @@ function Dashboard() {
             {/* Table (Top Channels) */}
             <DashboardCard07 />
             <hr className="mb-6" />
-            <span className="text-xl text-gray-800 font-semibold">Heading</span>
-            <p className="text-sm text-gray-600 mb-6">description</p>
+            <span className="text-xl text-gray-800 font-semibold">
+              Targeted Campaigning
+            </span>
+            <p className="text-sm text-gray-600 mb-6">
+              Cost Approximation, Reach Analysis and Target Strategies
+            </p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
                 <DashboardCard01 src={"/assets/image/1.png"} />

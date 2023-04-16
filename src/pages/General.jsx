@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
-import DashboardCard06 from "../partials/dashboard/DashboardCard06";
+import DashboardCard13 from "../partials/dashboard/DashboardCard13";
 import DashboardCard07 from "../partials/dashboard/DashboardCard07";
 import DashboardCard08 from "../partials/dashboard/DashboardCard08";
 import DashboardCard12 from "../partials/dashboard/DashboardCard12";
@@ -40,11 +40,9 @@ function Dashboard() {
 
             {/* Cards */}
             <div className="grid grid-cols-12 gap-6">
-              <DashboardCard06 />
+              <DashboardCard13 />
               {/* Table (Top Channels) */}
               <DashboardCard07 />
-              {/* Line chart (Sales Over Time) */}
-              <DashboardCard08 />
 
               {/* Card (Recent Activity) */}
               <DashboardCard12 />
