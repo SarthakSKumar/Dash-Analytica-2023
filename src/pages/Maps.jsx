@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
-import MapWithGeoJSON from "../partials/MapHandler";
 function Dashboard() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [subDomain, setSubDomain] = useState("");
@@ -172,9 +171,7 @@ function Dashboard() {
                     ))}
                   </select>
                 </div>
-                <div className="border-2 w-full">
-                  {iframeUrl && <MapWithGeoJSON />}
-                </div>
+                <div className="border-2 w-full"></div>
               </div>
             </div>
           </div>

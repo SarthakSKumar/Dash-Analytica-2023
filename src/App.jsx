@@ -26,7 +26,7 @@ function App() {
   return (
     <>
       <Routes>
-        <Route exact path="/" element={loggedIn ? <General /> : <Login />} />
+        <Route exact path="/" element={<Login />} />
         <Route
           exact
           path="/login"
