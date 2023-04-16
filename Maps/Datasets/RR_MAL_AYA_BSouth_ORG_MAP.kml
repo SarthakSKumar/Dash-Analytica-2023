@@ -46,6 +46,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -97,6 +98,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -148,6 +150,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -199,6 +202,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -250,6 +254,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -301,6 +306,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -352,6 +358,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -403,6 +410,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -454,6 +462,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -505,6 +514,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -556,6 +566,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -607,6 +618,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -658,6 +670,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -709,6 +722,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -760,6 +774,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -811,6 +826,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -862,6 +878,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -913,6 +930,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -964,6 +982,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1015,6 +1034,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1066,6 +1086,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1117,6 +1138,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1168,6 +1190,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1219,6 +1242,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1270,6 +1294,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1321,6 +1346,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1372,6 +1398,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1423,6 +1450,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1474,6 +1502,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1525,6 +1554,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1576,6 +1606,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1627,6 +1658,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1678,6 +1710,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1729,6 +1762,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1780,6 +1814,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1831,6 +1866,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1882,6 +1918,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1933,6 +1970,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -1984,6 +2022,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2035,6 +2074,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2086,6 +2126,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2137,6 +2178,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2188,6 +2230,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2239,6 +2282,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2290,6 +2334,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2341,6 +2386,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2392,6 +2438,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2443,6 +2490,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2494,6 +2542,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2545,6 +2594,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2596,6 +2646,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2647,6 +2698,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2698,6 +2750,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2749,6 +2802,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2800,6 +2854,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2851,6 +2906,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2902,6 +2958,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -2953,6 +3010,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3004,6 +3062,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3055,6 +3114,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3106,6 +3166,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3157,6 +3218,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3208,6 +3270,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3259,6 +3322,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3310,6 +3374,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3361,6 +3426,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3412,6 +3478,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3463,6 +3530,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3514,6 +3582,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3565,6 +3634,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3616,6 +3686,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3667,6 +3738,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3718,6 +3790,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3769,6 +3842,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3820,6 +3894,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3871,6 +3946,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3922,6 +3998,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -3973,6 +4050,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4024,6 +4102,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4075,6 +4154,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4126,6 +4206,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4177,6 +4258,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4228,6 +4310,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4279,6 +4362,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4330,6 +4414,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4381,6 +4466,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4432,6 +4518,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4483,6 +4570,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4534,6 +4622,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4585,6 +4674,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4636,6 +4726,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4687,6 +4778,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4738,6 +4830,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4789,6 +4882,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4840,6 +4934,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4891,6 +4986,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4942,6 +5038,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -4993,6 +5090,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5044,6 +5142,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5095,6 +5194,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5146,6 +5246,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5197,6 +5298,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5248,6 +5350,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5299,6 +5402,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5350,6 +5454,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5401,6 +5506,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5452,6 +5558,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5503,6 +5610,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5554,6 +5662,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5605,6 +5714,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5656,6 +5766,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5707,6 +5818,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5758,6 +5870,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5809,6 +5922,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5860,6 +5974,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5911,6 +6026,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -5962,6 +6078,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6013,6 +6130,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6064,6 +6182,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6115,6 +6234,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6166,6 +6286,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6217,6 +6338,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6268,6 +6390,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6319,6 +6442,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6370,6 +6494,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6421,6 +6546,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6472,6 +6598,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6523,6 +6650,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6574,6 +6702,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6625,6 +6754,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6676,6 +6806,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6727,6 +6858,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6778,6 +6910,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6829,6 +6962,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6880,6 +7014,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6931,6 +7066,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -6982,6 +7118,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7033,6 +7170,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7084,6 +7222,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7135,6 +7274,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7186,6 +7326,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7237,6 +7378,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7288,6 +7430,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7339,6 +7482,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7390,6 +7534,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7441,6 +7586,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7492,6 +7638,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7543,6 +7690,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7594,6 +7742,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7645,6 +7794,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7696,6 +7846,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7747,6 +7898,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7798,6 +7950,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7849,6 +8002,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7900,6 +8054,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -7951,6 +8106,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8002,6 +8158,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8053,6 +8210,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8104,6 +8262,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8155,6 +8314,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8206,6 +8366,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8257,6 +8418,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8308,6 +8470,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8359,6 +8522,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8410,6 +8574,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8461,6 +8626,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8512,6 +8678,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8563,6 +8730,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8614,6 +8782,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8665,6 +8834,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8716,6 +8886,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8767,6 +8938,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8818,6 +8990,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8869,6 +9042,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8920,6 +9094,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -8971,6 +9146,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9022,6 +9198,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9073,6 +9250,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9124,6 +9302,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9175,6 +9354,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9226,6 +9406,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9277,6 +9458,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9328,6 +9510,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9379,6 +9562,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9430,6 +9614,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9481,6 +9666,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9532,6 +9718,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9583,6 +9770,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9634,6 +9822,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9685,6 +9874,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9736,6 +9926,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9787,6 +9978,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9838,6 +10030,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9889,6 +10082,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9940,6 +10134,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -9991,6 +10186,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10042,6 +10238,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10093,6 +10290,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10144,6 +10342,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10195,6 +10394,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10246,6 +10446,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10297,6 +10498,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10348,6 +10550,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10399,6 +10602,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10450,6 +10654,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10501,6 +10706,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10552,6 +10758,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10603,6 +10810,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10654,6 +10862,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10705,6 +10914,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10756,6 +10966,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10807,6 +11018,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10863,6 +11075,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10914,6 +11127,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -10965,6 +11179,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11016,6 +11231,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11067,6 +11283,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11118,6 +11335,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11169,6 +11387,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11220,6 +11439,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11271,6 +11491,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11322,6 +11543,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11373,6 +11595,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11424,6 +11647,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11475,6 +11699,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11526,6 +11751,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11577,6 +11803,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11628,6 +11855,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11679,6 +11907,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11730,6 +11959,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11781,6 +12011,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11832,6 +12063,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11883,6 +12115,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11934,6 +12167,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -11985,6 +12219,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12036,6 +12271,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12087,6 +12323,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12138,6 +12375,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12189,6 +12427,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12240,6 +12479,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12291,6 +12531,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12342,6 +12583,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12393,6 +12635,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12444,6 +12687,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12495,6 +12739,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12546,6 +12791,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12597,6 +12843,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12648,6 +12895,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12699,6 +12947,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12750,6 +12999,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12801,6 +13051,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12852,6 +13103,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12903,6 +13155,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -12954,6 +13207,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13005,6 +13259,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13056,6 +13311,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13107,6 +13363,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13158,6 +13415,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13209,6 +13467,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13260,6 +13519,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13311,6 +13571,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13362,6 +13623,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13413,6 +13675,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13464,6 +13727,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13515,6 +13779,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13566,6 +13831,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13617,6 +13883,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13668,6 +13935,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13719,6 +13987,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13770,6 +14039,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13821,6 +14091,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13872,6 +14143,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13923,6 +14195,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -13974,6 +14247,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14025,6 +14299,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14076,6 +14351,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14127,6 +14403,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14178,6 +14455,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14229,6 +14507,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14280,6 +14559,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14331,6 +14611,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14382,6 +14663,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14433,6 +14715,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14484,6 +14767,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14535,6 +14819,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14586,6 +14871,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14637,6 +14923,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14688,6 +14975,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14739,6 +15027,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14790,6 +15079,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14841,6 +15131,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14892,6 +15183,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14943,6 +15235,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -14994,6 +15287,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15045,6 +15339,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15096,6 +15391,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15147,6 +15443,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15198,6 +15495,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15249,6 +15547,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15300,6 +15599,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15351,6 +15651,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15402,6 +15703,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15453,6 +15755,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15504,6 +15807,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15555,6 +15859,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15606,6 +15911,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15657,6 +15963,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15708,6 +16015,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15759,6 +16067,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15810,6 +16119,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15861,6 +16171,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15912,6 +16223,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -15963,6 +16275,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16014,6 +16327,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16065,6 +16379,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16116,6 +16431,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16167,6 +16483,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16218,6 +16535,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16269,6 +16587,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16320,6 +16639,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16371,6 +16691,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16422,6 +16743,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16473,6 +16795,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16524,6 +16847,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16575,6 +16899,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16626,6 +16951,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16677,6 +17003,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16728,6 +17055,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16779,6 +17107,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16830,6 +17159,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16881,6 +17211,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16932,6 +17263,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -16983,6 +17315,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17034,6 +17367,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17085,6 +17419,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17136,6 +17471,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17187,6 +17523,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17238,6 +17575,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17289,6 +17627,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17340,6 +17679,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17391,6 +17731,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17442,6 +17783,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17493,6 +17835,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17544,6 +17887,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17595,6 +17939,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17646,6 +17991,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17697,6 +18043,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17748,6 +18095,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17799,6 +18147,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17850,6 +18199,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17901,6 +18251,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -17952,6 +18303,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18003,6 +18355,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18054,6 +18407,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18105,6 +18459,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18156,6 +18511,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18207,6 +18563,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18258,6 +18615,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18309,6 +18667,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18360,6 +18719,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18411,6 +18771,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18462,6 +18823,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18513,6 +18875,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18564,6 +18927,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18615,6 +18979,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18666,6 +19031,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18717,6 +19083,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18768,6 +19135,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18819,6 +19187,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18870,6 +19239,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18921,6 +19291,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -18972,6 +19343,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19023,6 +19395,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19074,6 +19447,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19125,6 +19499,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19176,6 +19551,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19227,6 +19603,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19278,6 +19655,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19329,6 +19707,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19380,6 +19759,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19431,6 +19811,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19482,6 +19863,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19533,6 +19915,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19584,6 +19967,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19635,6 +20019,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19686,6 +20071,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19737,6 +20123,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19788,6 +20175,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19839,6 +20227,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19890,6 +20279,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19941,6 +20331,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -19992,6 +20383,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20043,6 +20435,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20094,6 +20487,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20145,6 +20539,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20196,6 +20591,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20247,6 +20643,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20298,6 +20695,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20349,6 +20747,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20400,6 +20799,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20451,6 +20851,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20502,6 +20903,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20553,6 +20955,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20604,6 +21007,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20655,6 +21059,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20706,6 +21111,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20757,6 +21163,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20808,6 +21215,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20859,6 +21267,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20910,6 +21319,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -20961,6 +21371,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21012,6 +21423,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21063,6 +21475,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21114,6 +21527,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21165,6 +21579,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21216,6 +21631,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21267,6 +21683,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21318,6 +21735,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21369,6 +21787,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21420,6 +21839,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21471,6 +21891,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21522,6 +21943,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21573,6 +21995,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21624,6 +22047,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21675,6 +22099,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21726,6 +22151,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21777,6 +22203,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21828,6 +22255,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21879,6 +22307,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21930,6 +22359,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -21981,6 +22411,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22032,6 +22463,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22083,6 +22515,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22134,6 +22567,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22185,6 +22619,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22236,6 +22671,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22287,6 +22723,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22338,6 +22775,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22389,6 +22827,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22440,6 +22879,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22491,6 +22931,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22542,6 +22983,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22593,6 +23035,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22644,6 +23087,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22695,6 +23139,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22746,6 +23191,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22797,6 +23243,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22848,6 +23295,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22899,6 +23347,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -22950,6 +23399,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23001,6 +23451,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23052,6 +23503,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23103,6 +23555,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23154,6 +23607,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23205,6 +23659,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23256,6 +23711,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23307,6 +23763,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23358,6 +23815,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23409,6 +23867,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23460,6 +23919,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23511,6 +23971,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23562,6 +24023,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23613,6 +24075,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23664,6 +24127,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23715,6 +24179,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23766,6 +24231,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23817,6 +24283,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23868,6 +24335,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23919,6 +24387,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -23970,6 +24439,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24021,6 +24491,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24072,6 +24543,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24123,6 +24595,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24174,6 +24647,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24225,6 +24699,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24276,6 +24751,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24327,6 +24803,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24378,6 +24855,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24429,6 +24907,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24480,6 +24959,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24531,6 +25011,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24582,6 +25063,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24633,6 +25115,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24684,6 +25167,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24735,6 +25219,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24786,6 +25271,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24837,6 +25323,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24888,6 +25375,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24939,6 +25427,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -24990,6 +25479,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25041,6 +25531,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25092,6 +25583,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25143,6 +25635,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25194,6 +25687,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25245,6 +25739,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25296,6 +25791,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25347,6 +25843,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25398,6 +25895,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25449,6 +25947,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25500,6 +25999,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25551,6 +26051,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25602,6 +26103,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25653,6 +26155,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25704,6 +26207,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25755,6 +26259,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25806,6 +26311,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25857,6 +26363,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25908,6 +26415,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -25959,6 +26467,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26010,6 +26519,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26061,6 +26571,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26112,6 +26623,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26163,6 +26675,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26214,6 +26727,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26265,6 +26779,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26316,6 +26831,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26367,6 +26883,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26418,6 +26935,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26469,6 +26987,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26520,6 +27039,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26571,6 +27091,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26622,6 +27143,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26673,6 +27195,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26724,6 +27247,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26775,6 +27299,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26826,6 +27351,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26877,6 +27403,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26928,6 +27455,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -26979,6 +27507,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27030,6 +27559,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27081,6 +27611,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27132,6 +27663,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27183,6 +27715,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27234,6 +27767,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27285,6 +27819,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27336,6 +27871,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27387,6 +27923,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27438,6 +27975,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27489,6 +28027,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27540,6 +28079,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27591,6 +28131,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27642,6 +28183,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27693,6 +28235,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27744,6 +28287,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27795,6 +28339,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27846,6 +28391,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27897,6 +28443,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27948,6 +28495,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -27999,6 +28547,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28050,6 +28599,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28101,6 +28651,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28152,6 +28703,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28203,6 +28755,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28254,6 +28807,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28305,6 +28859,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28356,6 +28911,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28407,6 +28963,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28458,6 +29015,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28509,6 +29067,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28560,6 +29119,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28611,6 +29171,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28662,6 +29223,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28713,6 +29275,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28764,6 +29327,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28815,6 +29379,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28866,6 +29431,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28917,6 +29483,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -28968,6 +29535,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29019,6 +29587,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29070,6 +29639,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29121,6 +29691,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29172,6 +29743,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29223,6 +29795,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29274,6 +29847,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29325,6 +29899,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29376,6 +29951,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29427,6 +30003,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29478,6 +30055,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29529,6 +30107,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29580,6 +30159,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29631,6 +30211,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29682,6 +30263,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29733,6 +30315,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29784,6 +30367,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29835,6 +30419,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29886,6 +30471,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29937,6 +30523,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -29988,6 +30575,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -30039,6 +30627,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -40912,6 +41501,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -40963,6 +41553,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41014,6 +41605,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41056,6 +41648,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41098,6 +41691,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41140,6 +41734,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41191,6 +41786,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41242,6 +41838,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41293,6 +41890,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41344,6 +41942,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41395,6 +41994,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41446,6 +42046,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41497,6 +42098,7 @@
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41549,6 +42151,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41600,6 +42203,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41651,6 +42255,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41702,6 +42307,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41753,6 +42359,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41804,6 +42411,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41855,6 +42463,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41906,6 +42515,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -41957,6 +42567,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42008,6 +42619,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42059,6 +42671,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42110,6 +42723,7 @@ Room No:02, Gubbalala
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42162,6 +42776,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42213,6 +42828,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42264,6 +42880,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42315,6 +42932,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42366,6 +42984,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42417,6 +43036,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42468,6 +43088,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42519,6 +43140,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42570,6 +43192,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42621,6 +43244,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42672,6 +43296,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42723,6 +43348,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42774,6 +43400,7 @@ Room No: 01, Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42827,6 +43454,7 @@ Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42869,6 +43497,7 @@ Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42911,6 +43540,7 @@ Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42953,6 +43583,7 @@ Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -42995,6 +43626,7 @@ Arehalli A.G.S Layout
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43047,6 +43679,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43089,6 +43722,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43141,6 +43775,7 @@ Room No 2, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43193,6 +43828,7 @@ Room No 4, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43245,6 +43881,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43296,6 +43933,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43347,6 +43985,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43398,6 +44037,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43449,6 +44089,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43500,6 +44141,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43551,6 +44193,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43602,6 +44245,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43653,6 +44297,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43704,6 +44349,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43755,6 +44401,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43806,6 +44453,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43857,6 +44505,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43908,6 +44557,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -43959,6 +44609,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44010,6 +44661,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44061,6 +44713,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44112,6 +44765,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44163,6 +44817,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44214,6 +44869,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44265,6 +44921,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44316,6 +44973,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44367,6 +45025,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44418,6 +45077,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44469,6 +45129,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44520,6 +45181,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44571,6 +45233,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44622,6 +45285,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44673,6 +45337,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44724,6 +45389,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44775,6 +45441,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44826,6 +45493,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44877,6 +45545,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44928,6 +45597,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -44979,6 +45649,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45030,6 +45701,7 @@ Room No.1, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45082,6 +45754,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45133,6 +45806,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45184,6 +45858,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45235,6 +45910,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45286,6 +45962,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45337,6 +46014,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45388,6 +46066,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45439,6 +46118,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45490,6 +46170,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45541,6 +46222,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45592,6 +46274,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45643,6 +46326,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45694,6 +46378,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45745,6 +46430,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45796,6 +46482,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45847,6 +46534,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45898,6 +46586,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -45949,6 +46638,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46000,6 +46690,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46051,6 +46742,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46102,6 +46794,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46153,6 +46846,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46204,6 +46898,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46255,6 +46950,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46306,6 +47002,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46357,6 +47054,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46408,6 +47106,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46459,6 +47158,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46510,6 +47210,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46561,6 +47262,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46612,6 +47314,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46663,6 +47366,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46714,6 +47418,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46756,6 +47461,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46798,6 +47504,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46840,6 +47547,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46882,6 +47590,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46933,6 +47642,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -46984,6 +47694,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47035,6 +47746,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47086,6 +47798,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47137,6 +47850,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47188,6 +47902,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47239,6 +47954,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47290,6 +48006,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47341,6 +48058,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47392,6 +48110,7 @@ Narasimaiah Layout Ramanjaneya Nagara Chikkalasandra
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47444,6 +48163,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47495,6 +48215,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47546,6 +48267,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47597,6 +48319,7 @@ Room No.2, Gollahalli Road, Anjanapura
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47650,6 +48373,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47701,6 +48425,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47752,6 +48477,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47803,6 +48529,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47854,6 +48581,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47905,6 +48633,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -47957,6 +48686,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48008,6 +48738,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48059,6 +48790,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48110,6 +48842,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48161,6 +48894,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48212,6 +48946,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48263,6 +48998,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48315,6 +49051,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48367,6 +49104,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48419,6 +49157,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48471,6 +49210,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48522,6 +49262,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48573,6 +49314,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48624,6 +49366,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48675,6 +49418,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48726,6 +49470,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48777,6 +49522,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48828,6 +49574,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48879,6 +49626,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48930,6 +49678,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -48981,6 +49730,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49032,6 +49782,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49083,6 +49834,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49134,6 +49886,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49185,6 +49938,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49236,6 +49990,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49287,6 +50042,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49338,6 +50094,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49389,6 +50146,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49440,6 +50198,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49491,6 +50250,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49542,6 +50302,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49593,6 +50354,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49644,6 +50406,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49695,6 +50458,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49746,6 +50510,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49797,6 +50562,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49848,6 +50614,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49899,6 +50666,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -49950,6 +50718,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50001,6 +50770,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50052,6 +50822,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50103,6 +50874,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50154,6 +50926,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50205,6 +50978,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50256,6 +51030,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50307,6 +51082,7 @@ Harinagar, Kottanur Main Road,
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50359,6 +51135,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50411,6 +51188,7 @@ Srinidhi Layout Chunchaghatta
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50463,6 +51241,7 @@ Room No. 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50515,6 +51294,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50566,6 +51346,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50617,6 +51398,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50668,6 +51450,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50719,6 +51502,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50770,6 +51554,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50821,6 +51606,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50872,6 +51658,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50923,6 +51710,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -50974,6 +51762,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51025,6 +51814,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51076,6 +51866,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51127,6 +51918,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51178,6 +51970,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51229,6 +52022,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51280,6 +52074,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51332,6 +52127,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51383,6 +52179,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51434,6 +52231,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51485,6 +52283,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51536,6 +52335,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51587,6 +52387,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51638,6 +52439,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51689,6 +52491,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51740,6 +52543,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51791,6 +52595,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51842,6 +52647,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51893,6 +52699,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51944,6 +52751,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -51995,6 +52803,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52046,6 +52855,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52097,6 +52907,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52148,6 +52959,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52199,6 +53011,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52250,6 +53063,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52301,6 +53115,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52352,6 +53167,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52403,6 +53219,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52454,6 +53271,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52505,6 +53323,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52556,6 +53375,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52607,6 +53427,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52658,6 +53479,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52709,6 +53531,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52760,6 +53583,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52811,6 +53635,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52862,6 +53687,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52913,6 +53739,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -52964,6 +53791,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53015,6 +53843,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53066,6 +53895,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53117,6 +53947,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53168,6 +53999,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53210,6 +54042,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53252,6 +54085,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53294,6 +54128,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53336,6 +54171,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53378,6 +54214,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53420,6 +54257,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53462,6 +54300,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53504,6 +54343,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53546,6 +54386,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53588,6 +54429,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53639,6 +54481,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53690,6 +54533,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53741,6 +54585,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53792,6 +54637,7 @@ Room No. 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53844,6 +54690,7 @@ Room No.01,Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53896,6 +54743,7 @@ Room No.02, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -53948,6 +54796,7 @@ Room No.03, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54000,6 +54849,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54051,6 +54901,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54102,6 +54953,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54153,6 +55005,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54204,6 +55057,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54246,6 +55100,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54288,6 +55143,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54339,6 +55195,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54390,6 +55247,7 @@ Room No.04, Weavers Colony Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54442,6 +55300,7 @@ Room No 6
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54493,6 +55352,7 @@ Room No 6
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54544,6 +55404,7 @@ Room No 6
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54596,6 +55457,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54648,6 +55510,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54700,6 +55563,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54752,6 +55616,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54803,6 +55668,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54854,6 +55720,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54905,6 +55772,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -54956,6 +55824,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55007,6 +55876,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55058,6 +55928,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55109,6 +55980,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55160,6 +56032,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55211,6 +56084,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55262,6 +56136,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55313,6 +56188,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55364,6 +56240,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55406,6 +56283,7 @@ Gottigere
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55458,6 +56336,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55509,6 +56388,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55560,6 +56440,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55611,6 +56492,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55662,6 +56544,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55713,6 +56596,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55764,6 +56648,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55815,6 +56700,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55866,6 +56752,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55917,6 +56804,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -55968,6 +56856,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56019,6 +56908,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56070,6 +56960,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56121,6 +57012,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56172,6 +57064,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56223,6 +57116,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56274,6 +57168,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56325,6 +57220,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56376,6 +57272,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56427,6 +57324,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56478,6 +57376,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56529,6 +57428,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56580,6 +57480,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56632,6 +57533,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56674,6 +57576,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56716,6 +57619,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56758,6 +57662,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56800,6 +57705,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56842,6 +57748,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56884,6 +57791,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56926,6 +57834,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -56968,6 +57877,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57010,6 +57920,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57052,6 +57963,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57094,6 +58006,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57145,6 +58058,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57196,6 +58110,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57247,6 +58162,7 @@ Room No 1
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57299,6 +58215,7 @@ Room No 2
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57351,6 +58268,7 @@ Room No 7
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57403,6 +58321,7 @@ Room No 4
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57455,6 +58374,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57506,6 +58426,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57557,6 +58478,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57599,6 +58521,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57641,6 +58564,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57683,6 +58607,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57725,6 +58650,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57767,6 +58693,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57809,6 +58736,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57851,6 +58779,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57902,6 +58831,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57953,6 +58883,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -57995,6 +58926,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58046,6 +58978,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58097,6 +59030,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58148,6 +59082,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58199,6 +59134,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58250,6 +59186,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58301,6 +59238,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58352,6 +59290,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58403,6 +59342,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58454,6 +59394,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58505,6 +59446,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58556,6 +59498,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58607,6 +59550,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58658,6 +59602,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58709,6 +59654,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58760,6 +59706,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58811,6 +59758,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58862,6 +59810,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58913,6 +59862,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -58964,6 +59914,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59015,6 +59966,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59066,6 +60018,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59117,6 +60070,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59168,6 +60122,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59219,6 +60174,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59270,6 +60226,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59321,6 +60278,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59372,6 +60330,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59423,6 +60382,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59474,6 +60434,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59525,6 +60486,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59567,6 +60529,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59609,6 +60572,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59651,6 +60615,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59693,6 +60658,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59735,6 +60701,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59777,6 +60744,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59819,6 +60787,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59861,6 +60830,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59903,6 +60873,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59945,6 +60916,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -59987,6 +60959,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60029,6 +61002,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60071,6 +61045,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60113,6 +61088,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60155,6 +61131,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60197,6 +61174,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60239,6 +61217,7 @@ Room No 8
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60291,6 +61270,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60342,6 +61322,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60393,6 +61374,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60444,6 +61426,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60495,6 +61478,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60546,6 +61530,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60597,6 +61582,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60648,6 +61634,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60699,6 +61686,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60750,6 +61738,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60801,6 +61790,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60843,6 +61833,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60885,6 +61876,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60927,6 +61919,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -60969,6 +61962,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61011,6 +62005,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61053,6 +62048,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61095,6 +62091,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61137,6 +62134,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61179,6 +62177,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61221,6 +62220,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61263,6 +62263,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61305,6 +62306,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61347,6 +62349,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61389,6 +62392,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61431,6 +62435,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61473,6 +62478,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61515,6 +62521,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61557,6 +62564,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61599,6 +62607,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61641,6 +62650,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61683,6 +62693,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61725,6 +62736,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61767,6 +62779,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61818,6 +62831,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61860,6 +62874,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61902,6 +62917,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61944,6 +62960,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -61986,6 +63003,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62028,6 +63046,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62070,6 +63089,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62112,6 +63132,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62154,6 +63175,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62196,6 +63218,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62238,6 +63261,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62280,6 +63304,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62322,6 +63347,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62364,6 +63390,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62406,6 +63433,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62448,6 +63476,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62490,6 +63519,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62532,6 +63562,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62584,6 +63615,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62635,6 +63667,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62686,6 +63719,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62737,6 +63771,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62788,6 +63823,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62839,6 +63875,7 @@ Chikka Togur
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62891,6 +63928,7 @@ G K Layout. Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62943,6 +63981,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -62994,6 +64033,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63045,6 +64085,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63096,6 +64137,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63147,6 +64189,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63198,6 +64241,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63249,6 +64293,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63300,6 +64345,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63342,6 +64388,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63393,6 +64440,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63444,6 +64492,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63486,6 +64535,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63528,6 +64578,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63570,6 +64621,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63612,6 +64664,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63654,6 +64707,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63696,6 +64750,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63738,6 +64793,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63780,6 +64836,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63822,6 +64879,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63864,6 +64922,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63906,6 +64965,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63948,6 +65008,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -63990,6 +65051,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64032,6 +65094,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64074,6 +65137,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64116,6 +65180,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64158,6 +65223,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64200,6 +65266,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64242,6 +65309,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64284,6 +65352,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64335,6 +65404,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64386,6 +65456,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
@@ -64428,6 +65499,7 @@ G K Layout Parappana Agrahara
             <fill>
        0
       </fill>
+<color>{colorValue}</color>
           </PolyStyle>
         </Style>
         <Polygon>
