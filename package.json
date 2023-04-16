@@ -1,5 +1,5 @@
 {
-  "name": "mosaic-react",
+  "name": "dash-analytica",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
@@ -10,16 +10,22 @@
     "@tailwindcss/forms": "^0.5.3",
     "bcryptjs": "^2.4.3",
     "chart.js": "^4.2.1",
-    "chartjs-adapter-moment": "^1.0.1",
+    "chartjs-adapter-moment": "^  1.0.1",
     "google-translate-api": "^2.3.0",
     "js-cookie": "^3.0.1",
     "jsonwebtoken": "^9.0.0",
+    "leaflet": "^1.9.3",
     "moment": "^2.29.4",
+    "papaparse": "^5.4.1",
+    "plotly.js": "^2.20.0",
+    "plotly.js-dist": "^2.20.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-flatpickr": "^3.10.13",
+    "react-leaflet": "^4.2.1",
     "react-router-dom": "^6.10.0",
-    "react-transition-group": "^4.4.5"
+    "react-transition-group": "^4.4.5",
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^3.1.0",

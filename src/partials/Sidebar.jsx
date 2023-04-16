@@ -88,10 +88,8 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
             </svg>
           </button>
           {/* Logo */}
-          <NavLink end to="/general" className="block">
-            <span className="text-xl font-semibold text-gray-300 my-4">
-              The Psephologists
-            </span>
+          <NavLink end to="/general" className="block w-full text-center">
+            <img src="../src/images/icon.svg" className="border-10"/>
           </NavLink>
         </div>
 
@@ -143,7 +141,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                                 className={`fill-current ${
                                   pathname === "/" ||
                                   pathname.includes("general")
-                                    ? "text-indigo-500"
+                                    ? "text-slate-400"
                                     : "text-slate-400"
                                 }`}
                                 d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0z"
@@ -193,7 +191,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -209,7 +207,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -225,7 +223,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -285,7 +283,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               <path
                                 className={`fill-current ${
                                   pathname === "/" || pathname.includes("maps")
-                                    ? "text-indigo-500"
+                                    ? "text-slate-400"
                                     : "text-slate-400"
                                 }`}
                                 d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0z"
@@ -333,7 +331,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -349,7 +347,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -365,7 +363,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -428,7 +426,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                                 className={`fill-current ${
                                   pathname === "/" ||
                                   pathname.includes("social")
-                                    ? "text-indigo-500"
+                                    ? "text-slate-400"
                                     : "text-slate-400"
                                 }`}
                                 d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0z"
@@ -478,7 +476,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -494,7 +492,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -510,7 +508,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -552,7 +550,8 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                       <a
                         href="#0"
                         className={`block text-slate-200 truncate transition duration-150 ${
-                          pathname === "/" || pathname.includes("campaign")
+                          pathname === "/campaign" ||
+                          pathname.includes("campaign")
                             ? "hover:text-slate-200"
                             : "hover:text-white"
                         }`}
@@ -571,16 +570,16 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                             >
                               <path
                                 className={`fill-current ${
-                                  pathname === "/" ||
+                                  pathname === "/campaign" ||
                                   pathname.includes("campaign")
-                                    ? "text-indigo-500"
+                                    ? "text-slate-400"
                                     : "text-slate-400"
                                 }`}
                                 d="M12 0C5.383 0 0 5.383 0 12s5.383 12 12 12 12-5.383 12-12S18.617 0 12 0z"
                               />
                               <path
                                 className={`fill-current ${
-                                  pathname === "/" ||
+                                  pathname === "/campaign" ||
                                   pathname.includes("campaign")
                                     ? "text-indigo-600"
                                     : "text-slate-600"
@@ -589,7 +588,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                               />
                               <path
                                 className={`fill-current ${
-                                  pathname === "/" ||
+                                  pathname === "/campaign" ||
                                   pathname.includes("campaign")
                                     ? "text-indigo-200"
                                     : "text-slate-400"
@@ -619,11 +618,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                           <li className="mb-1 last:mb-0">
                             <NavLink
                               end
-                              to="/"
+                              to="/campaign"
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -635,11 +634,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                           <li className="mb-1 last:mb-0">
                             <NavLink
                               end
-                              to="/campaign/medium"
+                              to="/campaign"
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -651,11 +650,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                           <li className="mb-1 last:mb-0">
                             <NavLink
                               end
-                              to="/campaign/Estimate"
+                              to="/campaign"
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -667,11 +666,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                           <li className="mb-1 last:mb-0">
                             <NavLink
                               end
-                              to="/campaign/Deploy"
+                              to="/campaign"
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >
@@ -683,11 +682,11 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
                           <li className="mb-1 last:mb-0">
                             <NavLink
                               end
-                              to="/campaign/Track"
+                              to="/campaign"
                               className={({ isActive }) =>
                                 "block transition duration-150 truncate " +
                                 (isActive
-                                  ? "text-indigo-500"
+                                  ? "text-slate-400"
                                   : "text-slate-400 hover:text-slate-200")
                               }
                             >

@@ -35,12 +35,16 @@ function Login() {
 
       setCookie("username", user.Name, 1);
       setCookie("role", user.role, 1);
-      navigate("/dashboard"); // Navigate to the dashboard route
+      navigate("/general"); // Navigate to the dashboard route
     });
   };
 
   return (
     <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
+      <img
+        src="../src/campaign/hackLogo.png"
+        className="h-32 w-fit text-center"
+      />
       <div className="mx-auto max-w-lg">
         <h1 className="text-center text-2xl font-bold text-indigo-600 sm:text-3xl">
           Log in to your account

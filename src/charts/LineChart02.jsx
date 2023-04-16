@@ -135,7 +135,7 @@ function LineChart02({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  return (
+  return (  
     <React.Fragment>
       <div className="px-5 py-3">
         <div className="flex flex-wrap justify-between items-end">
