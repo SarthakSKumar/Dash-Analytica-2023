@@ -22,7 +22,7 @@ function Dashboard() {
               Social Media and Platforms /
             </span>
             {/* Welcome banner */}
-            <img src="src\images\banner1.jpg" className="my-4" />
+            <img src="/assets/image/banner1.jpg" className="my-4" />
 
             {/* Dashboard actions */}
             <div className="sm:flex sm:justify-between sm:items-center mb-8">
@@ -36,49 +36,59 @@ function Dashboard() {
 
             {/* Cards */}
             <hr className="mb-6" />
-            <span className="text-xl text-gray-800 font-semibold">Heading</span>
-            <p className="text-sm text-gray-600 mb-6">description</p>
+            <span className="text-xl text-gray-800 font-semibold">
+              Election Hashtag Trends
+            </span>
+            <p className="text-sm text-gray-600 mb-6">
+              This is the frequency of tweets using hashtags related to
+              elections in a particular region
+            </p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/1.png"} />
+                <DashboardCard01 src={"/assets/image/1.png"} />
               </div>
 
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/9.png"} />
+                <DashboardCard01 src={"/assets/image/9.png"} />
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/10.png"} />
+                <DashboardCard01 src={"/assets/image/10.png"} />
               </div>
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/2.png"} />
+                <DashboardCard01 src={"/assets/image/2.png"} />
               </div>
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/11.png"} />
+                <DashboardCard01 src={"/assets/image/11.png"} />
               </div>
             </div>
             <hr className="mb-6" />
-            <span className="text-xl text-gray-800 font-semibold">Heading</span>
-            <p className="text-sm text-gray-600">description</p>
+            <span className="text-xl text-gray-800 font-semibold">
+              Hashtag Sentiment Analysis
+            </span>
+            <p className="text-sm text-gray-600">
+              This is the premier BERD based model that shows the voter
+              sentiment after analysing tweets with election related hashtags.
+            </p>
             <br />
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/4.png"} />
+                <DashboardCard01 src={"/assets/image/4.png"} />
               </div>
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/8.png"} />
+                <DashboardCard01 src={"/assets/image/8.png"} />
               </div>
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/5.png"} />
+                <DashboardCard01 src={"/assets/image/5.png"} />
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/7.png"} />
+                <DashboardCard01 src={"/assets/image/7.png"} />
               </div>
               <div className="col-span-2 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/socialMedia/3.png"} />
+                <DashboardCard01 src={"/assets/image/3.png"} />
               </div>
             </div>
           </div>

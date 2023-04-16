@@ -24,7 +24,7 @@ function Dashboard() {
               Campaigning and Reach /
             </span>
             {/* Welcome banner */}
-            <img src="src\images\banner2.jpg" className="my-4" />
+            <img src="/assets/image/banner2.jpg" className="my-4" />
             {/* Dashboard actions */}
             <div className="sm:flex sm:justify-between sm:items-center mb-8">
               {/* Left: Avatars */}
@@ -137,16 +137,16 @@ function Dashboard() {
             <p className="text-sm text-gray-600 mb-6">description</p>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-3">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/campaign/1.png"} />
+                <DashboardCard01 src={"/assets/image/1.png"} />
               </div>
 
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/campaign/2.png"} />
+                <DashboardCard01 src={"/assets/image/2.png"} />
               </div>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3 my-4">
               <div className="col-span-1 row-span-1 aspect-w-16 aspect-h-9">
-                <DashboardCard01 src={"../src/campaign/reach.png"} />
+                <DashboardCard01 src={"/assets/image/reach.png"} />
               </div>
             </div>
           </div>

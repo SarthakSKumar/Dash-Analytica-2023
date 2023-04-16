@@ -3,8 +3,6 @@ import { Link } from "react-router-dom";
 import Transition from "../../utils/Transition";
 import { getCookie } from "../../utils/cookies";
 
-import UserAvatar from "../../images/user-36-09.jpg";
-
 function UserMenu() {
   const [dropdownOpen, setDropdownOpen] = useState(false);
 
@@ -47,7 +45,7 @@ function UserMenu() {
       >
         <img
           className="w-8 h-8 rounded-full"
-          src={UserAvatar}
+          src={"/assets/image/user-36-09.jpg"}
           width="32"
           height="32"
           alt="User"

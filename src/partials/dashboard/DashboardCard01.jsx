@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import LineChart from "../../charts/LineChart01";
 import Icon from "../../images/icon-01.svg";
 import EditMenu from "../EditMenu";
 
@@ -128,7 +127,6 @@ function DashboardCard01(props) {
       {!props.src && (
         <div className="grow">
           {/* Change the height attribute to adjust the chart height */}
-          <LineChart data={chartData} width={389} height={128} />
         </div>
       )}
     </div>

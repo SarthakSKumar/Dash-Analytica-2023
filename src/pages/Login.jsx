@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import authorizedUsers from "../assets/authorizedUsers.json";
 import { useNavigate } from "react-router-dom";
 import bcrypt from "bcryptjs";
-import { setCookie } from "../utils/cookies";
+import { setCookie, getCookie } from "../utils/cookies";
 
 function Login() {
   const [officerID, setOfficerID] = useState("");
@@ -10,6 +10,7 @@ function Login() {
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
+  if (getCookie("username")) navigate("/general");
   const handleLogin = (event) => {
     event.preventDefault();
 
@@ -43,7 +44,7 @@ function Login() {
     <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
       <div className="mx-auto max-w-lg flex flex-wrap justify-center">
         <img
-          src="../src/campaign/hackLogo.png"
+          src="/assets/image/hackLogo.png"
           className="h-32 rounded-full my-16"
         />
         <h1 className="text-center text-2xl w-full font-bold  text-indigo-600 sm:text-3xl">

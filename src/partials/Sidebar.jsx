@@ -89,7 +89,7 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
           </button>
           {/* Logo */}
           <NavLink end to="/general" className="block w-full text-center">
-            <img src="../src/images/icon.svg" className="border-10" />
+            <img src="/assets/image/icon.svg" className="border-10" />
           </NavLink>
         </div>
 

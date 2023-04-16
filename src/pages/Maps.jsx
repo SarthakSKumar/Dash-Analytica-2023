@@ -86,7 +86,7 @@ function Dashboard() {
               {subDomain}
             </span>
             {/* Welcome banner */}
-            <img src="src\images\banner2.jpg" className="my-4" />
+            <img src="/assets/image/banner2.jpg" className="my-4" />
             {/* Dashboard actions */}
             <div className="sm:flex sm:justify-between sm:items-center mb-8">
               {/* Left: Avatars */}
