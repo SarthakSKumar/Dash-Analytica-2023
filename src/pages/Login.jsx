@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import authorizedUsers from "../assets/authorizedUsers.json";
 import { useNavigate } from "react-router-dom";
 import bcrypt from "bcryptjs";
-import { setCookie } from "../utils/cookies";
+import { setCookie, getCookie } from "../utils/cookies";
 
 function Login() {
   const [officerID, setOfficerID] = useState("");
@@ -39,7 +39,9 @@ function Login() {
       navigate("/general");
     });
   };
-
+  useEffect(() => {
+    getCookie("username") ? navigate("/general") : null;
+  }, [getCookie, navigate]);
   return (
     <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
       <div className="mx-auto max-w-lg flex flex-wrap justify-center">
@@ -114,15 +116,15 @@ function Login() {
                   stroke="currentColor"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
                   />
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
                   />
                 </svg>
