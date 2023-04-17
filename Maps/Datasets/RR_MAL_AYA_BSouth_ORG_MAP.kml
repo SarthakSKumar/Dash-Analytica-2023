@@ -7499,58 +7499,6 @@
         <ExtendedData>
           <SchemaData schemaUrl="ac173">
             <SimpleData name="PSCode">
-       173162
-      </SimpleData>
-            <SimpleData name="AC_CODE">
-       173
-      </SimpleData>
-            <SimpleData name="AC_Name">
-       Jayanagar
-      </SimpleData>
-            <SimpleData name="PS_Name">
-       St. Pauls English School, Room No.3, 3rd Cross, 3rd Phase, J P Nagar, B78
-      </SimpleData>
-            <SimpleData name="registered_voters">
-       1470
-      </SimpleData>
-            <SimpleData name="ward_id">
-       177
-      </SimpleData>
-            <SimpleData name="ward_name">
-       J P Nagar
-      </SimpleData>
-            <SimpleData name="locality">
-       Jp Nagar Iii Phase
-      </SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Style>
-          <LineStyle>
-            <color>
-       ff0000ff
-      </color>
-          </LineStyle>
-          <PolyStyle>
-            <fill>
-       1
-      </fill>
-<color>7f57d97e</color>
-          </PolyStyle>
-        </Style>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-        77.600014,12.914196 77.600023,12.914284 77.600004,12.914893 77.599231,12.91488 77.599267,12.914622 77.598643,12.914619 77.598664,12.914723 77.598391,12.914698 77.596693,12.914715 77.596789,12.912757 77.596824,12.912756 77.598521,12.912776 77.599884,12.912788 77.599883,12.913083 77.599883,12.913341 77.599899,12.913598 77.599905,12.913697 77.599957,12.913879 77.599972,12.913934 77.599986,12.913995 77.599995,12.914045 77.600004,12.914121 77.600014,12.914196
-       </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <ExtendedData>
-          <SchemaData schemaUrl="ac173">
-            <SimpleData name="PSCode">
        173209
       </SimpleData>
             <SimpleData name="AC_CODE">
@@ -30536,110 +30484,7 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-      <Placemark>
-        <ExtendedData>
-          <SchemaData schemaUrl="ac154">
-            <SimpleData name="PSCode">
-       154076
-      </SimpleData>
-            <SimpleData name="AC_CODE">
-       154
-      </SimpleData>
-            <SimpleData name="AC_Name">
-       Rajarajeshwarinagar
-      </SimpleData>
-            <SimpleData name="PS_Name">
-       Five 'H' English High School 3Rd Main 7Th Cross Brindavananagara Room No. 3
-      </SimpleData>
-            <SimpleData name="registered_voters">
-       960
-      </SimpleData>
-            <SimpleData name="ward_id">
-       17
-      </SimpleData>
-            <SimpleData name="ward_name">
-       J P Park
-      </SimpleData>
-            <SimpleData name="locality">
-       Venkatamma Ms Ramaiah Colony
-      </SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Style>
-          <LineStyle>
-            <color>
-       ff0000ff
-      </color>
-          </LineStyle>
-          <PolyStyle>
-            <fill>
-       1
-      </fill>
-<color>80FF5757</color>
-          </PolyStyle>
-        </Style>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-        77.553944,13.038671 77.553415,13.038707 77.553405,13.038531 77.553401,13.038129 77.553268,13.037509 77.554116,13.03758 77.554122,13.037528 77.554674,13.037586 77.55454,13.038336 77.554524,13.038657 77.554151,13.038657 77.553944,13.038671
-       </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <ExtendedData>
-          <SchemaData schemaUrl="ac154">
-            <SimpleData name="PSCode">
-       154065
-      </SimpleData>
-            <SimpleData name="AC_CODE">
-       154
-      </SimpleData>
-            <SimpleData name="AC_Name">
-       Rajarajeshwarinagar
-      </SimpleData>
-            <SimpleData name="PS_Name">
-       Open Air Theatre, B B M P Park, 3Rd Cross Sundranagar, Room No. 1
-      </SimpleData>
-            <SimpleData name="registered_voters">
-       1260
-      </SimpleData>
-            <SimpleData name="ward_id">
-       17
-      </SimpleData>
-            <SimpleData name="ward_name">
-       J P Park
-      </SimpleData>
-            <SimpleData name="locality">
-       Poornappa Garden
-      </SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Style>
-          <LineStyle>
-            <color>
-       ff0000ff
-      </color>
-          </LineStyle>
-          <PolyStyle>
-            <fill>
-       1
-      </fill>
-<color>7f57d97e</color>
-          </PolyStyle>
-        </Style>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-        77.560012,13.040456 77.559964,13.04046 77.559806,13.040478 77.559801,13.040465 77.559518,13.040205 77.559431,13.040193 77.559481,13.039929 77.559514,13.039612 77.559536,13.039367 77.5592,13.039245 77.559308,13.038882 77.559442,13.038931 77.560083,13.039216 77.560483,13.039506 77.560771,13.039796 77.560858,13.03989 77.560963,13.040002 77.560836,13.040175 77.560642,13.04045 77.560481,13.040447 77.560386,13.040449 77.560264,13.040449 77.560114,13.040449 77.560109,13.040449 77.560012,13.040456
-       </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
+    
     </Folder>
     <Folder xmlns="http://www.opengis.net/kml/2.2">
       <name xmlns:py="http://codespeak.net/lxml/objectify/pytype" py:pytype="str">
@@ -40539,57 +40384,7 @@
           </outerBoundaryIs>
         </Polygon>
       </Placemark>
-      <Placemark>
-        <ExtendedData>
-          <SchemaData schemaUrl="ac157">
-            <SimpleData name="PSCode">
-       157058
-      </SimpleData>
-            <SimpleData name="AC_CODE">
-       157
-      </SimpleData>
-            <SimpleData name="AC_Name">
-       Malleshwaram
-      </SimpleData>
-            <SimpleData name="PS_Name">
-       Sun shine English School Ashwathnagara RMV  Room No.4 Bangalore 560094
-      </SimpleData>
-            <SimpleData name="registered_voters">
-       1200
-      </SimpleData>
-            <SimpleData name="ward_id">
-       35
-      </SimpleData>
-            <SimpleData name="ward_name">
-       Aramane Nagara
-      </SimpleData>
-            <SimpleData name="locality">
-       Ashwath Nagar (Armane Nagar)
-      </SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Style>
-          <LineStyle>
-            <color>
-       ff0000ff
-      </color>
-          </LineStyle>
-          <PolyStyle>
-            <color>3c14F032</color>
-            <fill>1</fill>
-            <outline>1</outline>
-          </PolyStyle>
-        </Style>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-        77.579303,13.026677 77.579242,13.02669 77.579104,13.026719 77.579024,13.026731 77.578945,13.026743 77.57873,13.026777 77.578623,13.026793 77.578507,13.026811 77.577956,13.026863 77.57778,13.026879 77.577733,13.026887 77.577693,13.02628 77.578233,13.026204 77.57804,13.024985 77.578555,13.024806 77.578603,13.025082 77.578655,13.025816 77.578524,13.025842 77.578565,13.02616 77.579242,13.026045 77.579303,13.026677
-       </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
+      
       <Placemark>
         <ExtendedData>
           <SchemaData schemaUrl="ac157">
@@ -65464,49 +65259,6 @@ G K Layout Parappana Agrahara
             <LinearRing>
               <coordinates>
         77.673713,12.870594 77.673821,12.870724 77.674057,12.871008 77.674172,12.871147 77.674343,12.871353 77.674425,12.871458 77.674803,12.871943 77.67536,12.872658 77.675303,12.872956 77.675243,12.873234 77.675107,12.873863 77.674918,12.874721 77.674777,12.875246 77.674751,12.875303 77.674743,12.875335 77.674725,12.875358 77.674663,12.875438 77.674417,12.875887 77.674229,12.87625 77.674205,12.876296 77.674182,12.876339 77.672169,12.875909 77.672045,12.875244 77.671979,12.873817 77.671209,12.87377 77.671456,12.870258 77.670401,12.870286 77.669929,12.870617 77.669885,12.87052 77.670087,12.870276 77.670016,12.869396 77.669754,12.869338 77.670004,12.868388 77.670146,12.868481 77.67042,12.867774 77.670437,12.867726 77.671029,12.867989 77.671157,12.868045 77.672177,12.868351 77.672178,12.868339 77.672205,12.868348 77.672329,12.868355 77.672471,12.868362 77.672469,12.868386 77.672854,12.868455 77.672797,12.869062 77.672787,12.869174 77.672768,12.869381 77.672849,12.869482 77.672868,12.869506 77.673033,12.869714 77.673429,12.870203 77.673713,12.870594
-       </coordinates>
-            </LinearRing>
-          </outerBoundaryIs>
-        </Polygon>
-      </Placemark>
-      <Placemark>
-        <ExtendedData>
-          <SchemaData schemaUrl="ac176">
-            <SimpleData name="PSCode">
-       176309
-      </SimpleData>
-            <SimpleData name="AC_CODE">
-       176
-      </SimpleData>
-            <SimpleData name="AC_Name">
-       Bangalore South
-      </SimpleData>
-            <SimpleData name="PS_Name">
-       Govt Higher Primary School, Room No 4 Doddanagamanaga
-      </SimpleData>
-            <SimpleData name="registered_voters">
-       1350
-      </SimpleData>
-          </SchemaData>
-        </ExtendedData>
-        <Style>
-          <LineStyle>
-            <color>
-       ff0000ff
-      </color>
-          </LineStyle>
-          <PolyStyle>
-            <fill>
-       1
-      </fill>
-<color>7f59bdff</color>
-          </PolyStyle>
-        </Style>
-        <Polygon>
-          <outerBoundaryIs>
-            <LinearRing>
-              <coordinates>
-        77.683416,12.86911 77.682648,12.869191 77.681811,12.869279 77.680518,12.869096 77.680417,12.869102 77.680054,12.869123 77.679661,12.86875 77.678857,12.867984 77.678249,12.867222 77.678189,12.867058 77.678136,12.866844 77.678097,12.866643 77.678045,12.866543 77.677948,12.866408 77.677925,12.866258 77.676903,12.86639 77.676754,12.866141 77.676477,12.866158 77.676299,12.865909 77.67576,12.866129 77.675709,12.866094 77.675649,12.865958 77.675429,12.86569 77.675369,12.865548 77.675353,12.865404 77.675329,12.865261 77.675284,12.865154 77.67521,12.86504 77.675164,12.864847 77.675011,12.86416 77.674928,12.863215 77.674613,12.862629 77.674523,12.862462 77.675041,12.862341 77.675663,12.862254 77.675916,12.862218 77.676223,12.8622 77.676792,12.86224 77.67688,12.862311 77.676919,12.862555 77.677261,12.862415 77.677531,12.862348 77.678159,12.862284 77.679013,12.862211 77.679582,12.862154 77.680792,12.861841 77.681813,12.86158 77.682381,12.861437 77.682834,12.861447 77.683252,12.861543 77.684042,12.861636 77.684664,12.861658 77.686037,12.86147 77.686053,12.861525 77.68635,12.862509 77.686647,12.863545 77.68693,12.864534 77.687141,12.865266 77.687167,12.86536 77.687393,12.866145 77.687419,12.866243 77.687678,12.867206 77.687908,12.868056 77.687913,12.868101 77.687767,12.868136 77.687746,12.86814 77.687737,12.868103 77.687409,12.868193 77.686853,12.868345 77.686252,12.868509 77.686067,12.868559 77.6858,12.868632 77.685218,12.86879 77.684577,12.868965 77.684442,12.869002 77.68402,12.869046 77.683416,12.86911
        </coordinates>
             </LinearRing>
           </outerBoundaryIs>
