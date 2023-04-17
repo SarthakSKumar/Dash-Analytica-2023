@@ -1,12 +1,11 @@
 import React, { useState } from "react";
 import SearchModal from "./header/SearchModal";
 import Notifications from "./header/Notifications";
-import Help from "./header/Help";
 import UserMenu from "./header/UserMenu";
 
 function Header({ sidebarOpen, setSidebarOpen }) {
   const [searchModalOpen, setSearchModalOpen] = useState(false);
-  const [selectedLanguage, setSelectedLanguage] = useState("English");
+  const [selectedLanguage, setSelectedLanguage] = useState("En<glish");
 
   return (
     <header className="sticky top-0 bg-white border-b border-slate-200 z-30">
@@ -35,8 +34,7 @@ function Header({ sidebarOpen, setSidebarOpen }) {
                 <rect x="4" y="17" width="16" height="2" />
               </svg>
             </button>
-            
-            {/* Language selection dropdown */}
+
             <div className="relative inline-block">
               <select
                 className="block appearance-none w-full text-sm bg-white border border-gray-400 hover:border-gray-500 px-4 py-2 pr-12 rounded shadow leading-tight focus:outline-none focus:shadow-outline"
@@ -51,7 +49,6 @@ function Header({ sidebarOpen, setSidebarOpen }) {
             </div>
           </div>
 
-          {/* Header: Right side */}
           <div className="flex items-center">
             <button
               className={`w-8 h-8 flex items-center justify-center bg-slate-100 hover:bg-slate-200 transition duration-150 rounded-full ml-3 ${
@@ -86,7 +83,6 @@ function Header({ sidebarOpen, setSidebarOpen }) {
               setModalOpen={setSearchModalOpen}
             />
             <Notifications />
-            <Help />
             {/*  Divider */}
             <hr className="w-px h-6 bg-slate-200 mx-3" />
             <UserMenu />

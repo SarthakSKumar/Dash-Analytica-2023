@@ -1,11 +1,10 @@
 import React, { useState } from "react";
-
+import withAuth from "../components/withAuth";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
 import DashboardCard01 from "../partials/dashboard/DashboardCard01";
-import DashboardCard06 from "../partials/dashboard/DashboardCard06";
 import DashboardCard07 from "../partials/dashboard/DashboardCard07";
-function Dashboard() {
+function Campaign() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
@@ -64,4 +63,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default withAuth(Campaign);

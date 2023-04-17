@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
+import withAuth from "../utils/withAuth";
 
-function Dashboard() {
-  const [geojsonData, setGeojsonData] = useState(null);
+function Maps() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [subDomain, setSubDomain] = useState("");
   const [state, setState] = useState("");
@@ -170,4 +170,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default withAuth(Maps);

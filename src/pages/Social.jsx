@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-
+import withAuth from "../utils/withAuth";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
 import DashboardCard01 from "../partials/dashboard/DashboardCard01";
-function Dashboard() {
+function Social() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
@@ -98,4 +98,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default withAuth(Social);

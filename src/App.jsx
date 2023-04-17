@@ -27,27 +27,11 @@ function App() {
     <>
       <Routes>
         <Route exact path="/" element={<Login />} />
-        <Route
-          exact
-          path="/login"
-          element={loggedIn ? <General /> : <Login />}
-        />
-        <Route
-          exact
-          path="/general"
-          element={loggedIn ? <General /> : <Login />}
-        />
-        <Route
-          exact
-          path="/campaign"
-          element={loggedIn ? <Campaign /> : <Login />}
-        />
-        <Route exact path="/maps" element={loggedIn ? <Maps /> : <Login />} />
-        <Route
-          exact
-          path="/social"
-          element={loggedIn ? <Social /> : <Login />}
-        />
+        <Route exact path="/login" element={<Login />} />
+        <Route exact path="/general" element={<General />} />
+        <Route exact path="/campaign" element={<Campaign />} />
+        <Route exact path="/maps" element={<Maps />} />
+        <Route exact path="/social" element={<Social />} />
       </Routes>
     </>
   );

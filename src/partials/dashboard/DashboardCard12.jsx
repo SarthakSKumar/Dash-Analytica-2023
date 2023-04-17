@@ -2,7 +2,7 @@ import React from "react";
 
 function AnnouncementsCard() {
   return (
-    <div className="col-span-full xl:w-full bg-white shadow-lg rounded-sm border border-slate-200">
+    <div className="mb-4 col-span-full bg-white shadow-lg rounded-sm border border-slate-200">
       <header className="px-5 py-4 border-b border-slate-100">
         <h2 className="font-semibold text-slate-800">
           Election Commission Announcements

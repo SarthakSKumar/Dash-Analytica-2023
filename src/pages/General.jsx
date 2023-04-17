@@ -1,13 +1,12 @@
 import React, { useState } from "react";
-
+import withAuth from "../utils/withAuth";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
 import DashboardCard13 from "../partials/dashboard/DashboardCard13";
 import DashboardCard07 from "../partials/dashboard/DashboardCard07";
-import DashboardCard08 from "../partials/dashboard/DashboardCard08";
 import DashboardCard12 from "../partials/dashboard/DashboardCard12";
 
-function Dashboard() {
+function General() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
   return (
@@ -39,7 +38,7 @@ function Dashboard() {
             </div>
 
             {/* Cards */}
-            <div className="grid grid-cols-12 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-0 md:gap-3">
               <DashboardCard13 />
               {/* Table (Top Channels) */}
               <DashboardCard07 />
@@ -54,4 +53,4 @@ function Dashboard() {
   );
 }
 
-export default Dashboard;
+export default withAuth(General);

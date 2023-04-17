@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import authorizedUsers from "../assets/authorizedUsers.json";
 import { useNavigate } from "react-router-dom";
 import bcrypt from "bcryptjs";
-import { setCookie, getCookie } from "../utils/cookies";
+import { setCookie } from "../utils/cookies";
 
 function Login() {
   const [officerID, setOfficerID] = useState("");
@@ -10,7 +10,6 @@ function Login() {
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
-  if (getCookie("username")) navigate("/general");
   const handleLogin = (event) => {
     event.preventDefault();
 
@@ -34,9 +33,10 @@ function Login() {
         return;
       }
 
+      setError("");
       setCookie("username", user.Name, 1);
       setCookie("role", user.role, 1);
-      navigate("/general"); // Navigate to the dashboard route
+      navigate("/general");
     });
   };
 
@@ -80,9 +80,9 @@ function Login() {
                   stroke="currentColor"
                 >
                   <path
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    stroke-width="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth="2"
                     d="M16 12a4 4 0 10-8 0 4 4 0 008 0zm0 0v1.5a2.5 2.5 0 005 0V12a9 9 0 10-9 9m4.5-1.206a8.959 8.959 0 01-4.5 1.207"
                   />
                 </svg>

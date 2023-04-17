@@ -15,7 +15,6 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
     storedSidebarExpanded === null ? false : storedSidebarExpanded === "true"
   );
 
-  // close on click outside
   useEffect(() => {
     const clickHandler = ({ target }) => {
       if (!sidebar.current || !trigger.current) return;
@@ -751,7 +750,6 @@ function Sidebar({ sidebarOpen, setSidebarOpen }) {
               <path d="M16.707 18.293l-1.414 1.414L14.707 16l-2.707 2.293 1.414 1.414L14 18.414V22a1 1 0 001 1h5.586l-3.121-3.122z" />
             </svg>
           </button>
-          {/* Font size increase icon */}
           <button
             className="w-8 h-8 flex items-center justify-center bg-slate-100 hover:bg-slate-200 transition duration-150 rounded-full ml-3"
             aria-label="Increase font size"
