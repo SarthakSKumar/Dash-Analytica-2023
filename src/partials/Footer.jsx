@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 function Footer() {
   return (
-    <footer className="bg-gray-800 text-white py-4 px-6">
+    <footer className="bg-gray-800 text-white py-4 px-6 footer">
       <div className="flex justify-between items-center">
         {/* Site Map */}
         <ul className="flex flex-wrap list-none">
@@ -63,7 +63,7 @@ function Footer() {
       </div>
 
       {/* Disclaimer */}
-      <p className="text-sm mt-4">
+      <p className="text-sm mt-4 text-center">
         Disclaimer: This is a fictional website created for educational purposes
         only.
       </p>

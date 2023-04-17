@@ -5,7 +5,7 @@ import Header from "../partials/Header";
 import DashboardCard13 from "../partials/dashboard/DashboardCard13";
 import DashboardCard07 from "../partials/dashboard/DashboardCard07";
 import DashboardCard12 from "../partials/dashboard/DashboardCard12";
-
+import { getCookie } from "../utils/cookies";
 function General() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
 
@@ -21,6 +21,23 @@ function General() {
 
         <main>
           <div className="px-4 sm:px-6 lg:px-8 py-4 w-full max-w-9xl mx-auto">
+            <div className="flex items-center mb-4">
+              <div className="mr-2">
+                <img
+                  src="/assets/image/user-36-09.jpg"
+                  className="w-10 h-10 rounded-full"
+                  alt="Avatar"
+                />
+              </div>
+              <div>
+                <p className="text-gray-800 font-semibold text-sm">
+                  Welcome back, {getCookie("username")}
+                </p>
+                <p className="text-gray-400 font-medium text-xs">
+                  Last login: 1 hour ago
+                </p>
+              </div>
+            </div>
             <span className="text-gray-800 text-2xl font-semibold">
               Dashboard /
             </span>
@@ -34,6 +51,25 @@ function General() {
               {/* Right: Actions */}
               <div className="grid grid-flow-col sm:auto-cols-max justify-start sm:justify-end gap-2">
                 {/* Add view button */}
+                <button className="btn-sm text-gray-800 bg-gray-100 hover:bg-gray-200">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    className="icon icon-tabler icon-tabler-plus"
+                    width="18"
+                    height="18"
+                    viewBox="0 0 24 24"
+                    strokeWidth="2"
+                    stroke="currentColor"
+                    fill="none"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  >
+                    <path stroke="none" d="M0 0h24v24H0z" />
+                    <line x1="12" y1="5" x2="12" y2="19" />
+                    <line x1="5" y1="12" x2="19" y2="12" />
+                  </svg>
+                  <span>Add View</span>
+                </button>
               </div>
             </div>
 

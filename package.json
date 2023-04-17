@@ -23,6 +23,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-flatpickr": "^3.10.13",
+    "react-icons": "^4.8.0",
     "react-leaflet": "^4.2.1",
     "react-leaflet-kml": "^2.1.1",
     "react-router-dom": "^6.10.0",
