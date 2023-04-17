@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import withAuth from "../components/withAuth";
+import withAuth from "../utils/withAuth";
 import Sidebar from "../partials/Sidebar";
 import Header from "../partials/Header";
 import DashboardCard01 from "../partials/dashboard/DashboardCard01";
