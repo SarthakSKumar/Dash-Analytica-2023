@@ -24,7 +24,7 @@ function General() {
             <div className="flex items-center mb-4">
               <div className="mr-2">
                 <img
-                  src="/assets/image/user-36-09.jpg"
+                  src="/assets/image/hackLogo.png"
                   className="w-10 h-10 rounded-full"
                   alt="Avatar"
                 />

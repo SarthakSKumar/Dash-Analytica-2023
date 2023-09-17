@@ -10,11 +10,11 @@ function Login() {
   const [error, setError] = useState("");
   const navigate = useNavigate();
 
-  const handleLogin = (event) => {
+  const handleLogin = (event, demo) => {
     event.preventDefault();
 
     const user = authorizedUsers.find(
-      (user) => user.officerId === parseInt(officerID)
+      (user) => user.officerId === (demo ? 3576287 : parseInt(officerID))
     );
 
     if (!user) {
@@ -22,7 +22,7 @@ function Login() {
       return;
     }
 
-    bcrypt.compare(password, user.hash, (err, result) => {
+    bcrypt.compare(demo ? "12345678" : password, user.hash, (err, result) => {
       if (err) {
         setError("An error occurred while verifying your password.");
         return;
@@ -43,11 +43,11 @@ function Login() {
     getCookie("username") ? navigate("/general") : null;
   }, [getCookie, navigate]);
   return (
-    <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
+    <div className="mx-auto max-h-screen max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8 align-center text-center">
       <div className="mx-auto max-w-lg flex flex-wrap justify-center">
         <img
           src="/assets/image/logoFile.png"
-          className="h-32 rounded-md my-16"
+          className="h-32 rounded-md mb-16"
         />
         <h1 className="text-center text-2xl w-full font-bold  text-indigo-600 sm:text-3xl">
           Log in to your account
@@ -140,9 +140,22 @@ function Login() {
           >
             Log in
           </button>
+          <button
+            type="submit"
+            onClick={(event) => handleLogin(event, true)}
+            className="block w-full rounded-lg bg-orange-600 px-5 py-3 text-sm font-medium text-white"
+          >
+            Demo Login
+          </button>
         </form>
       </div>
-      <p className="text-sm text-gray-500 my-10">Team Psephologists</p>
+      <p className="text-md text-gray-500 my-10">
+        Built by <strong>Team Psephologists</strong> for{" "}
+        <strong>Electhon 2023</strong>
+      </p>
+      <p className="text-md text-gray-500 my-10">
+        Sarthak S Kumar | Pradyun P Rao | Aryan Sharma | Akshay Shenoy
+      </p>
     </div>
   );
 }

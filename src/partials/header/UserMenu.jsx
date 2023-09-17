@@ -46,7 +46,7 @@ function UserMenu() {
       >
         <img
           className="w-8 h-8 rounded-full"
-          src={"/assets/image/user-36-09.jpg"}
+          src={"/assets/image/hackLogo.png"}
           width="32"
           height="32"
           alt="User"

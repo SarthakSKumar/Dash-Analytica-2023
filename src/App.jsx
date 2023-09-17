@@ -18,12 +18,12 @@ function App() {
   return (
     <>
       <Routes>
-        <Route exact path="/" element={<Login />} />
-        <Route exact path="/login" element={<Login />} />
-        <Route exact path="/general" element={<General />} />
-        <Route exact path="/campaign" element={<Campaign />} />
-        <Route exact path="/maps" element={<Maps />} />
-        <Route exact path="/social" element={<Social />} />
+        <Route path="/" element={<Login />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/general" element={<General />} />
+        <Route path="/campaign" element={<Campaign />} />
+        <Route path="/maps" element={<Maps />} />
+        <Route path="/social" element={<Social />} />
       </Routes>
     </>
   );
